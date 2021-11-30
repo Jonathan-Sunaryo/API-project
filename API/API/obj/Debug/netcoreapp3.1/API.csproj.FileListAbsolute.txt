@@ -1,0 +1,213 @@
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E5473G\source\repos\API\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\E5473G\source\repos\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\ASUS\OneDrive\Desktop\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\ASUS\OneDrive\Desktop\API\API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Jonathan\Desktop\API Joes\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
