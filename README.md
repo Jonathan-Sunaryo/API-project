@@ -1,2 +1,2 @@
-# metrodata_coding_camp
+# metrodata-coding-camp
 Project latihan MCC
