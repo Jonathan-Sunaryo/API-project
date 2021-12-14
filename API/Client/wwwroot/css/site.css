@@ -16,3 +16,206 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+img {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: coral;
+    background-color: black;
+}
+
+#pokemon {
+    text-transform: uppercase;
+
+}
+
+#pokemon {
+    text-transform: uppercase;
+}
+
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    #customers td, #customers th {
+        border: 1px solid #0c7eb3;
+        padding: 8px;
+    }
+
+    #customers tr:nth-child(odd) {
+        background-color: #0c7eb3;
+    }
+
+    #customers tr:nth-child(even) {
+        background-color: #12b2fc;
+    }
+
+    #customers tr:hover {
+        background-color: #ddd;
+    }
+
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #041454;
+        color: white;
+    }
+
+#employees {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    #employees td, #employees th {
+        border: 1px solid #0c7eb3;
+        padding: 8px;
+    }
+
+    #employees tr:nth-child(odd) {
+        background-color: #0c7eb3;
+    }
+
+    #employees tr:nth-child(even) {
+        background-color: #12b2fc;
+    }
+
+    #employees tr:hover {
+        background-color: #ddd;
+    }
+
+
+    #employees th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #041454;
+        color: white;
+    }
+
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+/* The navigation bar */
+nav {
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+    width: 36px;
+    font-size: 24px;
+}
+
+    .navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+        font-size: 0.75rem;
+    
+        right: 0;
+        font-family: sans-serif;
+    }
+
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+    top: 3px;
+    line-height: 12px;
+}
+
+    .navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+        top: -10px;
+    }
+
+@media (min-width: 576px) {
+    .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link {
+        text-align: center;
+        
+        height: 70px;
+        vertical-align: middle;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+        .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link > .fa {
+           
+            width: 48px;
+            margin: 2px auto 4px auto;
+            top: 0;
+            line-height: 24px;
+        }
+
+            .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link > .fa > .badge {
+                top: -7px;
+            }
+}
+
+@media (min-width: 768px) {
+    .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link {
+        text-align: center;
+        
+        height: 70px;
+        vertical-align: middle;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+        .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link > .fa {
+            display: block;
+            width: 48px;
+            margin: 2px auto 4px auto;
+            top: 0;
+            line-height: 24px;
+        }
+
+            .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link > .fa > .badge {
+                top: -7px;
+            }
+}
+
+@media (min-width: 992px) {
+    .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+        display: table-cell;
+        height: 70px;
+        vertical-align: middle;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+        .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link > .fa {
+            display: block;
+            width: 48px;
+            margin: 2px auto 4px auto;
+            top: 0;
+            line-height: 24px;
+        }
+
+            .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link > .fa > .badge {
+                top: -7px;
+            }
+}
+
+@media (min-width: 1200px) {
+    .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link {
+        text-align: center;
+        display: table-cell;
+        height: 70px;
+        vertical-align: middle;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+        .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link > .fa {
+            
+            width: 48px;
+            margin: 2px auto 4px auto;
+            top: 0;
+            line-height: 24px;
+        }
+
+            .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link > .fa > .badge {
+                top: -7px;
+            }
+}
+

@@ -17,7 +17,8 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "6.0.0",
           "Microsoft.EntityFrameworkCore.Proxies": "6.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
-          "Microsoft.EntityFrameworkCore.Tools": "6.0.0"
+          "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
+          "jQuery.Validation": "1.19.3"
         },
         "runtime": {
           "API.dll": {}
@@ -57,6 +58,12 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
+        }
+      },
+      "jQuery/1.4.4": {},
+      "jQuery.Validation/1.19.3": {
+        "dependencies": {
+          "jQuery": "1.4.4"
         }
       },
       "MailKit/2.15.0": {
@@ -1344,6 +1351,20 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "jQuery/1.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kexCeYIZehR5fRjo8CK1sngN5SZEQRFNfCYZHMS1RxwEEiSKetBw/gliYJcLJdJEBB+e9aHqleLCjuaSI7u23g==",
+      "path": "jquery/1.4.4",
+      "hashPath": "jquery.1.4.4.nupkg.sha512"
+    },
+    "jQuery.Validation/1.19.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y9oA2cqUyuJYd+egyp/2VwsUT4mH1X31R7i74VTm1i/7XhnSK0iAWsPvQBXxXz6BhOnEDhAQ0u12Aj830/e1YA==",
+      "path": "jquery.validation/1.19.3",
+      "hashPath": "jquery.validation.1.19.3.nupkg.sha512"
     },
     "MailKit/2.15.0": {
       "type": "package",

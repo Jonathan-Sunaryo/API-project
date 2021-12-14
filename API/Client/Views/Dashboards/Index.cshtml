@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Dashboards";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Dashboard</h1>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  
+<div class="container">
+ 
+  <div class="container">
+  <div class="row">
+    <div class="col" id="chart3">
+         <h5>Salary above and below 20</h5>
+    </div>
+    <div class="col" id="chart2">
+         <h5>Gender Ratio</h5>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col" id="chart1">
+      <h5>University Students</h5>
+    </div>
+      <div class="col">
+      <h5></h5>
+    </div>
+  </div>
+</div>
+
+
+
+    </div>
+
+    
+
+   @* <div style="height: 100px;
+  width: 500px;
+  background-color: powderblue;" id="chart1">
+
+   </div>
+
+   <div style="height: 100px;
+  width: 500px;
+  background-color: powderblue;" id="chart2">
+
+    </div>
+    
+    <div style="height: 100px;
+  width: 500px;
+  background-color: powderblue;" id="chart3">
+
+    </div>*@
+
+@*<script>
+
+    $.ajax({
+        url: "https://localhost:44348/API/Employees",
+        success: function (result) {
+            console.log(result);
+        }
+    })
+
+</script>*@
+
+@section Scripts {
+     <script type="text/javascript" src="~/js/dashboard.js"></script>
+}

@@ -3,7 +3,6 @@ using API.Context;
 using API.Model;
 using API.Repository.Data;
 using API.ViewModel;
-using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -14,7 +13,6 @@ using System.Linq;
 using System.Net;
 using System.Security.Claims;
 using System.Text;
-using System.Web.Http;
 using AuthorizeAttribute = Microsoft.AspNetCore.Authorization.AuthorizeAttribute;
 using HttpGetAttribute = Microsoft.AspNetCore.Mvc.HttpGetAttribute;
 using HttpPostAttribute = Microsoft.AspNetCore.Mvc.HttpPostAttribute;
@@ -25,7 +23,7 @@ namespace API.Controllers
 
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("AllowOrigin")]
+    //[EnableCors("AllowOrigin")]
     public class EmployeesController : BaseController<Employee, EmployeeRepository, string>
     {
         private EmployeeRepository employeeRepository;
@@ -75,7 +73,7 @@ namespace API.Controllers
             
 
 
-        [Authorize(Roles = "Manager,Director")]
+       // [Authorize(Roles = "Manager,Director")]
         [HttpGet("Register")]
         public ActionResult<RegisterVM> GetRegister()
         {
@@ -83,7 +81,7 @@ namespace API.Controllers
             var result = employeeRepository.GetRegister();
             if (result != null)
             {
-                return Ok(new { status = HttpStatusCode.OK, result = result, message = "Data berhasil ditampilkan" });
+                return Ok(result);
             }
             return NotFound(new { status = HttpStatusCode.NotFound, result = result, message = $"Data tidak ada" });
         }
@@ -164,8 +162,9 @@ namespace API.Controllers
 
                     employeeRepository.GetProfile(result.Item2);
 
-                    return Ok(new { status = HttpStatusCode.OK, idtoken , result2, message = "Login Berhasil" });
-
+                    //return Ok(idtoken);
+                    // return Ok(new { status = HttpStatusCode.OK, idtoken , result2, message = "Login Berhasil" });
+                    return Ok(new JWTokenVM { Token = idtoken, Messages = "Login Success" });
                 }
                 return NotFound(new { status = HttpStatusCode.NotFound, result = result, message = $"Data tidak ada" });
 

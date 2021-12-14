@@ -68,7 +68,9 @@ namespace API
         });
             services.AddCors(c =>
             {
-                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyHeader()
+                                                  .AllowAnyMethod());
+
             }
            );
         }
@@ -80,7 +82,7 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+          
 
             app.UseRouting();
 
@@ -100,11 +102,18 @@ namespace API
 
             });
 
+           
+
             app.UseAuthentication();
 
             app.UseAuthorization();
 
-            app.UseCors(options => options.AllowAnyOrigin());
+            app.UseCors(x => x
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+
+            app.UseHttpsRedirection();
 
             app.UseEndpoints(endpoints =>
             {

@@ -18,9 +18,32 @@ namespace Client.Controllers
             return View();
         }
 
+        public IActionResult pokemon()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        [HttpGet("Unauthorized/")]
+        public IActionResult Unathorized()
+        {
+            return View("401");
+        }
+
+        [HttpGet("Forbidden/")]
+        public IActionResult Forbidden()
+        {
+            return View("403");
+        }
+
+        [HttpGet("Notfound/")]
+        public IActionResult Notfound()
+        {
+            return View("404");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

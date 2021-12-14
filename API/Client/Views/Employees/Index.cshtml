@@ -1,0 +1,462 @@
+﻿@{
+    ViewData["Title"] = "Employees";
+}
+
+<div class="text-center">
+    <h1 class="display-4">List Employees</h1>
+</div>
+
+
+  
+<div class="container">
+ 
+     <button type="button" class="fas fa-user-plus"  data-bs-toggle="modal" onclick="Insert" data-bs-target="#createEmployeeModal2">
+</button>
+
+
+    <table id="employees" class="table table-hover" style="color:black">
+        <thead>
+            <tr style="color:red;">
+                <th scope="col">NIK</th>
+                <th scope="col">FullName</th>
+                <th scope="col">Phone</th>
+                <th scope="col">BirthDate</th>
+                <th scope="col">Salary</th>
+                <th scope="col">Email</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Update</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody id="listSW">
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="accountModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Account Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="fas fa-save"></button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal HTML Markup -->
+<div id="createEmployeeModal2" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title">Edit Employees</h1>
+            </div>
+            <div class="modal-body">
+                <form class="needs-validation" novalidate id="employeeform" onsubmit="return false"  >
+                @*<form class="cmxform" id="employeeform" method="get" action="form-handler.html">*@
+                     <div class="form-group">
+                        <label for="employeeNik" class="form-label">NIK</label>
+                        <input type="text" class="form-control" id="employeeNik" value="" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="employeeFirstName" class="form-label">First name </label>
+                        <input name="employeeFirstName" class="form-control" required type="text" id="employeeFirstName" value="" >
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                  @*  <div class="col-md-4">
+                        <label for="validationServer01" class="form-label">First name</label>
+                        <input type="text" class="form-control is-valid" id="validationServer01" value="Mark" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>*@
+                    <div class="form-group">
+                        <label for="employeeLastName" class="form-label">Last name</label>
+                        <input name="employeeLastName" type="text" class="form-control" id="employeeLastName" value="" required/>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                       <div class="form-group">
+                        <label for="validationCustomUsername" class="form-label">Email</label>
+                        <div class="input-group has-validation">
+                            <input type="email" class="form-control" id="employeeEmail" value="" required>
+                            <div class="invalid-feedback">
+                                Please enter email.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustomUsername" class="form-label">Phone</label>
+                        <div class="input-group has-validation">
+                            <input type="text" class="form-control" id="employeePhone" value="" required>
+                            <div class="invalid-feedback">
+                                Please enter phone number.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom03" class="form-label">BirthDate</label>
+                        <input type="date" class="form-control" id="employeeBirthDate" value="" required>
+                        <div class="invalid-feedback">
+                            Please enter BirthDate
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom04" class="form-label">Gender</label>
+                        <select class="form-select" id="employeeGender" value="" required>
+                            <option selected disabled value="">Choose...</option>
+                           <option value="0"> Male </option>
+                                <option value="1"> Female </option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a valid Gender.
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom05" class="form-label">Salary</label>
+                        <input type="text" class="form-control" id="employeeSalary" value="" required>
+                        <div class="invalid-feedback">
+                            Please enter Salary
+                        </div>
+                    </div>
+                    <div class="col-12">
+                         <button type='submit' class="fas fa-save" onclick="Insert()">
+                              
+                            </button>
+                    </div>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+@*
+
+<!-- Modal HTML Markup -->
+<div  id="createEmployeeModal" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title">Create Employees</h1>
+            </div>
+            <div class="modal-body">
+                <form role="form" method="POST" action="">
+                    <input type="hidden" name="_token" value="">
+                    <div class="form-group">
+                        <label class="control-label">NIK</label>
+                        <div>
+                            <input id="nik" type="text" class="form-control input-lg" name="nik">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">FirstName</label>
+                        <div>
+                            <input id="firstName" type="text" class="form-control input-lg" name="firstName">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">LastName</label>
+                        <div>
+                            <input id="lastName" type="text" class="form-control input-lg" name="lastName">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label">Salary</label>
+                        <div>
+                            <input id="salary" type="text" class="form-control input-lg" name="lastName">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Email</label>
+                        <div>
+                            <input id="email" type="email" class="form-control input-lg" name="email">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Phone</label>
+                        <div>
+                            <input id="phone" type="text" class="form-control input-lg" name="phone">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">BirthDate</label>
+                        <div>
+                            <input id="birthDate" type="date" class="form-control input-lg" name="dateTime">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Gender</label>
+                        <div>
+                            <select id="gender" name="gender">
+                                <option value="0"> Male </option>
+                                <option value="1"> Female </option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div>
+                            <button  type='button' class="fas fa-save" onclick="Insert()">
+                         
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->*@
+@*<!-- Modal HTML Markup -->
+<div id="editEmployeeModal" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title">Edit Employees</h1>
+            </div>
+            <div class="modal-body" name="empty">
+                <form role="form" method="PUT" action="">
+                    <input type="hidden" name="_token" value="">
+                    <div class="form-group">
+                        <label class="control-label">NIK</label>
+                        <div>
+                            <input id="employeeNik" type="text" class="form-control input-lg" name="nik" value="" disabled>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">FirstName</label>
+                        <div>
+                            <input id="employeeFirstName" type="text" class="form-control input-lg" name="firstName" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">LastName</label>
+                        <div>
+                            <input id="employeeLastName" type="text" class="form-control input-lg" name="lastName" value="">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label">Salary</label>
+                        <div>
+                            <input id="employeeSalary" type="text" class="form-control input-lg" name="lastName" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Email</label>
+                        <div>
+                            <input id="employeeEmail" type="email" class="form-control input-lg" name="email" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Phone</label>
+                        <div>
+                            <input id="employeePhone" type="text" class="form-control input-lg" name="phone" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">BirthDate</label>
+                        <div>
+                            <input id="employeeBirthDate" type="date" class="form-control input-lg" name="dateTime" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Gender</label>
+                        <div>
+                            <select id="employeeGender" name="gender" value="">
+                                <option value="0"> Male </option>
+                                <option value="1"> Female </option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div>
+                            <button type='button' class="btn btn-success" onclick="Update(employeeNik.value)">
+                                Register
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->*@
+
+<!-- Modal HTML Markup -->
+<div id="editEmployeeModal2" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title">Edit Employees</h1>
+            </div>
+            <div class="modal-body">
+                <form class="needs-validation" novalidate id="employeeform" onsubmit="return false"  >
+                @*<form class="cmxform" id="employeeform" method="get" action="form-handler.html">*@
+                     <div class="form-group">
+                        <label for="employeeNik" class="form-label">NIK</label>
+                        <input type="text" class="form-control" id="employeeNik" value="" disabled>
+                    </div>
+                    <div class="form-group">
+                        <label for="employeeFirstName" class="form-label">First name </label>
+                        <input name="employeeFirstName" class="form-control" required type="text" id="employeeFirstName" value="" >
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                  @*  <div class="col-md-4">
+                        <label for="validationServer01" class="form-label">First name</label>
+                        <input type="text" class="form-control is-valid" id="validationServer01" value="Mark" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>*@
+                    <div class="form-group">
+                        <label for="employeeLastName" class="form-label">Last name</label>
+                        <input name="employeeLastName" type="text" class="form-control" id="employeeLastName" value="" required/>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                       <div class="form-group">
+                        <label for="validationCustomUsername" class="form-label">Email</label>
+                        <div class="input-group has-validation">
+                            <input type="email" class="form-control" id="employeeEmail" value="" required>
+                            <div class="invalid-feedback">
+                                Please enter email.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustomUsername" class="form-label">Phone</label>
+                        <div class="input-group has-validation">
+                            <input type="text" class="form-control" id="employeePhone" value="" required>
+                            <div class="invalid-feedback">
+                                Please enter phone number.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom03" class="form-label">BirthDate</label>
+                        <input type="date" class="form-control" id="employeeBirthDate" value="" required>
+                        <div class="invalid-feedback">
+                            Please enter BirthDate
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom04" class="form-label">Gender</label>
+                        <select class="form-select" id="employeeGender" value="" required>
+                            <option selected disabled value="">Choose...</option>
+                           <option value="0"> Male </option>
+                                <option value="1"> Female </option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a valid Gender.
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="validationCustom05" class="form-label">Salary</label>
+                        <input type="text" class="form-control" id="employeeSalary" value="" required>
+                        <div class="invalid-feedback">
+                            Please enter Salary
+                        </div>
+                    </div>
+                    <div class="col-12">
+                         <button type='submit' class="fas fa-save" onclick="Update(employeeNik.value)">
+                              
+                            </button>
+                    </div>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+(function () {
+  'use strict'
+
+  // Fetch all the forms we want to apply custom Bootstrap validation styles to
+  var forms = document.querySelectorAll('.needs-validation')
+
+  // Loop over them and prevent submission
+  Array.prototype.slice.call(forms)
+    .forEach(function (form) {
+      form.addEventListener('submit', function (event) {
+        if (!form.checkValidity()) {
+          event.preventDefault()
+          event.stopPropagation()
+        }
+
+        form.classList.add('was-validated')
+      }, false)
+    })
+})()    
+
+</script>
+
+@*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.js"></script>
+
+   <script>  $("#employeeform").validate({
+       rules: {
+           employeeFirstName: {
+               required:true,
+                minlength: 2
+           },
+            employeeLastName: {
+               required:true,
+                minlength: 3
+           }
+       },
+       errorPlacement: function (error,element) {},
+       highlight: function (element) {
+           $(element).closest('.form-control').addClass('is-invalid');
+       },
+       messages: {
+           employeeFirstName:{
+               required:"Please enter First Name",
+               minlength: "Your name must consist at least 2 character"
+           }
+       }
+   }); *@
+   
+ @*  //function Submit() {
+   //    if($("#employeeform").valid()) {
+   //        var id = $("#id").val();
+
+   //        if(id==""|| id == " "){
+   //            console.log("post accessed")
+   //            Post();
+   //        } else {
+   //            console.log("put accessed")
+   //            Put(id);
+   //        }
+   //    } 
+   //}
+   //Submit();
+*@
+
+@*<script>
+
+    $.ajax({
+        url: "https://localhost:44348/API/Employees",
+        success: function (result) {
+            console.log(result);
+        }
+    })
+
+</script>*@

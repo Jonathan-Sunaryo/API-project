@@ -1,0 +1,613 @@
+﻿++Solution 'API' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:API.sln
+++Client
+i:{00000000-0000-0000-0000-000000000000}:Client
+++Connected Services 
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1254
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1253
+++No service dependencies discovered
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1256
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1255
+++Dependencies
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1251
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1252
+++Analyzers
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:analyzers
+++Frameworks
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:frameworks
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:frameworks
+++Packages
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:packages
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:packages
+++Projects
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:projects
+++API
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\api\api.csproj
+i:{00000000-0000-0000-0000-000000000000}:API
+++Properties
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\properties\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\properties\
+++launchSettings.json
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\properties\launchsettings.json
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\properties\launchsettings.json
+++wwwroot
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\
+++css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\css\
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\css\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\
+++sb-admin-2.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\css\sb-admin-2.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\css\sb-admin-2.css
+++site.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\css\site.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\css\site.css
+++js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\js\
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\js\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\
+++dashboard.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\js\dashboard.js
+++latihanArray.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\js\latihanarray.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\js\latihanarray.js
+++site.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\js\site.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\js\site.js
+++lib
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\
+++bootstrap
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\
+++jquery
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\
+++jquery-validation
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation-unobtrusive\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation-unobtrusive\
+++scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\
+++favicon.ico
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\favicon.ico
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\favicon.ico
+++Base
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\base\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\base\
+++Controllers
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\base\controllers\
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\
+++BaseControllers.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\base\controllers\basecontrollers.cs
+++Urls
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\base\urls\
+++Adress.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\base\urls\adress.cs
+++Dashboards.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\dashboards.cs
+++EmployeesController.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\employeescontroller.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\employeescontroller.cs
+++HomeController.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\homecontroller.cs
+++Pokemons.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\pokemons.cs
+++TestCors.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\controllers\testcors.cs
+++Models
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\models\
+++ErrorViewModel.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\models\errorviewmodel.cs
+++Repositories
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\
+++Data
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\data\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\
+++EmployeeRepository.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\data\employeerepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\employeerepository.cs
+++Interface
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\interface\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\interface\
+++IRepository.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\interface\irepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\interface\irepository.cs
+++GeneralRepository.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\repositories\generalrepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\generalrepository.cs
+++Views
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\
+++Dashboards
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\dashboards\
+++Employees
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\employees\
+++Employees.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\employees\employees.css
+++Index.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\employees\index.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\home\index.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\pokemons\index.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\testcors\index.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\dashboards\index.cshtml
+++Home
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\home\
+++Privacy.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\home\privacy.cshtml
+++Pokemons
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\pokemons\
+++Shared
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\
+++_Layout.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\_layout.cshtml
+++_LayoutAdmin.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\_layoutadmin.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\error.cshtml
+++TestCors
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\testcors\
+++_ViewImports.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\_viewstart.cshtml
+++appsettings.json
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\appsettings.json
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\appsettings.json
+++appsettings.Development.json
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\appsettings.development.json
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\appsettings.development.json
+++Program.cs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\program.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\program.cs
+++MessagePackAnalyzer
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\microsoft.aspnetcore.app
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\microsoft.netcore.app
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\microsoft.netcore.app
+++jQuery.Validation (1.19.3)
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1268
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1291
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1270
+++Newtonsoft.Json (13.0.1)
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>1269
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1292
+++sb-admin-2.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\css\sb-admin-2.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\css\sb-admin-2.min.css
+++dist
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\dist\
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\dist\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\dist\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\license
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\license.txt
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\license.txt
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\license.md
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++navs
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\navs\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\navs\
+++utilities
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\
+++_buttons.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_buttons.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_buttons.scss
+++_cards.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_cards.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_cards.scss
+++_charts.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_charts.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_charts.scss
+++_dropdowns.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_dropdowns.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_dropdowns.scss
+++_error.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_error.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_error.scss
+++_footer.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_footer.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_footer.scss
+++_global.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_global.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\navs\_global.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_global.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\navs\_global.scss
+++_login.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_login.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_login.scss
+++_mixins.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_mixins.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_mixins.scss
+++_navs.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_navs.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_navs.scss
+++_utilities.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_utilities.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_utilities.scss
+++_variables.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\_variables.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\_variables.scss
+++sb-admin-2.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\sb-admin-2.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\sb-admin-2.scss
+++_Layout.cshtml.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\views\shared\_layout.cshtml.css
+++jquery.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\dist\jquery.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_sidebar.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\navs\_sidebar.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\navs\_sidebar.scss
+++_topbar.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\navs\_topbar.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\navs\_topbar.scss
+++_animation.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_animation.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_animation.scss
+++_background.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_background.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_background.scss
+++_border.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_border.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_border.scss
+++_display.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_display.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_display.scss
+++_progress.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_progress.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_progress.scss
+++_rotate.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_rotate.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_rotate.scss
+++_text.scss
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\scss\utilities\_text.scss
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\scss\utilities\_text.scss
+++bootstrap.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\dist\jquery.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\jquery\dist\jquery.min.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:c:\users\jonathan\desktop\api joes\api\client\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Context
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\context\
+++Hashing
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\hashing\
+++Migrations
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\
+++Model
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\
+++Other
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\other\
+++Repository
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\
+++ViewModel
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\
+++Startup.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\startup.cs
+++WeatherForecast.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\weatherforecast.cs
+++BaseController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\base\basecontroller.cs
+++MyContext.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\context\mycontext.cs
+++BIN
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\bin\
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\bin\
+++AccountRolesController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\accountrolescontroller.cs
+++AccountsController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\accountscontroller.cs
+++EducationController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\educationcontroller.cs
+++ProfilingsController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\profilingscontroller.cs
+++RolesController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\rolescontroller.cs
+++UniversitiesController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\universitiescontroller.cs
+++WeatherForecastController.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\weatherforecastcontroller.cs
+++Hashing.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\hashing\hashing.cs
+++20211124075313_init.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\20211124075313_init.cs
+++20211125034043_add role-table.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\20211125034043_add role-table.cs
+++MyContextModelSnapshot.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\mycontextmodelsnapshot.cs
+++Account.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\account.cs
+++AccountRole.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\accountrole.cs
+++Education.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\education.cs
+++Employee.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\employee.cs
+++Profiling.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\profiling.cs
+++Role.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\role.cs
+++University.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\model\university.cs
+++ChangePasswordVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\changepasswordvm.cs
+++EmailVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\emailvm.cs
+++ForgotPasswordVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\forgotpasswordvm.cs
+++LoginDataVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\logindatavm.cs
+++LoginVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\loginvm.cs
+++ProfileVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\profilevm.cs
+++RegisterVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\registervm.cs
+++UniversitiesVM.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\viewmodel\universitiesvm.cs
+++BCrypt.Net-Core (1.6.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1293
+++MailKit (2.15.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1299
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1297
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1295
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1289
+++Microsoft.EntityFrameworkCore.Abstractions (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1296
+++Microsoft.EntityFrameworkCore.Proxies (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1294
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1290
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>1298
+++EmployeesControllerUNUSED.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\controllers\bin\employeescontrollerunused.cs
+++20211124075313_init.Designer.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\20211124075313_init.designer.cs
+++20211125034043_add role-table.Designer.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\migrations\20211125034043_add role-table.designer.cs
+++EmployeeRepositoryUNUSED.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\bin\employeerepositoryunused.cs
+++IEmployeeRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\bin\iemployeerepository.cs
+++AccountRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\accountrepository.cs
+++AccountRoleRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\accountrolerepository.cs
+++EducationRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\educationrepository.cs
+++ProfilingRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\profilingrepository.cs
+++RoleRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\rolerepository.cs
+++UniversityRepository.cs
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:c:\users\jonathan\desktop\api joes\api\api\repository\data\universityrepository.cs
+++Solution 'API' ‎(3 of 3 projects)
+++Tes
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Microsoft.Owin.Security.OAuth (4.2.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>2310
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>2311
+++Microsoft.Owin.Host.SystemWeb (4.2.0)
+i:{324cc260-1357-4f17-a66e-d27ca3d81f5c}:>2312
+i:{5843329a-9540-4da8-9f8d-4f70d5768d37}:>2313

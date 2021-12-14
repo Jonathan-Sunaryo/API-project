@@ -22,24 +22,26 @@ namespace API.Repository.Data
 
         public Tuple<int, string> Login(LoginVM loginVM)
         {
+            try { 
             var checkEmail = context.Employees.Where(b => b.Email == loginVM.Email).FirstOrDefault();
             
             var checkPhone = context.Employees.Where(b => b.Phone ==loginVM.Phone).FirstOrDefault();
 
             if (checkEmail != null || checkPhone != null)
             {
-                var password = (from e in context.Set<Employee>()
-                                where e.Email == loginVM.Email || e.Phone == loginVM.Phone
-                                join a in context.Set<Account>() on e.NIK equals a.NIK
-                                select a.Password).Single();
+                
+                    var password = (from e in context.Set<Employee>()
+                                    where e.Email == loginVM.Email || e.Phone == loginVM.Phone
+                                    join a in context.Set<Account>() on e.NIK equals a.NIK
+                                    select a.Password).Single();
 
-                var nik = (from e in context.Set<Employee>()
-                           where e.Email == loginVM.Email || e.Phone == loginVM.Phone
-                           join a in context.Set<Account>() on e.NIK equals a.NIK
-                           select e.NIK).Single();
+                    var nik = (from e in context.Set<Employee>()
+                               where e.Email == loginVM.Email || e.Phone == loginVM.Phone
+                               join a in context.Set<Account>() on e.NIK equals a.NIK
+                               select e.NIK).Single();
 
-                var checkPassword = Hashing.Hashing.ValidatePassword(loginVM.Password, password);
-
+                    var checkPassword = Hashing.Hashing.ValidatePassword(loginVM.Password, password);
+              
                 //Password salah
                 if (checkPassword == false)
                 {
@@ -55,6 +57,11 @@ namespace API.Repository.Data
             else
             {
                 return Tuple.Create(2, "");
+            }
+            }
+            catch
+            {
+                return Tuple.Create(0, "");
             }
         }
 
